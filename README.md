@@ -1,7 +1,7 @@
 # Sonos Bug Tracker
-The new Sonos apps, v80, are a problem. Here is an attempt to track the main problems, so we can see how things are progressing. There's no code in here.
+The new Sonos apps, v80, are in a bit of a state. Here is an attempt to track the main problems, so we can see how things are progressing. (There's no code in here).
 
-Check the Issues tab for everything we know about.
+Check the _Issues_ tab for everything we know about.
 
 # Opening Issues
 First, see if there's already one that covers it. If it is, great, add a comment if you can provide more information. (No +1s please).
@@ -14,7 +14,7 @@ Please, no ranting here. Save that for:
 - Facebook: https://www.facebook.com/groups/sonosusersgroup
 
 # References
-CEO Post: https://www.sonos.com/en-us/blog/update-on-the-sonos-app?utm_source=community-care&utm_medium=blog-patrick
+CEO Post: https://www.sonos.com/en-us/blog/update-on-the-sonos-app?utm_source=sonosbugtracker&utm_medium=blog-patrick
 
 # Legal
 This site is NOT connected to, or endorsed by, Sonos. Sonos is a registered trademark of Sonos, Inc.
