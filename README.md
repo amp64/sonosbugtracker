@@ -1,3 +1,6 @@
+# [ARCHIVED]
+Sonos finally got their mobile apps into reasonable shape, so this repo is now archived and read-only.
+
 # Sonos App Bug Tracker (Unofficial)
 The new Sonos apps, v80, are in a bit of a state. Here is an attempt to track the main problems, so we can see how things are progressing. (There's no code in here).
 
